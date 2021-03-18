@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T11:38:15.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Q1XUqu2be09mli_oTtrR" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-18T12:25:49.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="sC3k1zrDqsbEgt4B0GMo" version="13.10.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1703" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -134,14 +134,11 @@
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1838" value="Concerns" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="100" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OQ3E1-0agg7yZBkhoX3U-1839" value="Social" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="2150" y="150" width="150" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1840" value="Policy" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="2140" y="280" width="150" height="60" as="geometry" />
+          <mxGeometry x="1990" y="310" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OQ3E1-0agg7yZBkhoX3U-1841" value="Legal" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="2140" y="383" width="150" height="60" as="geometry" />
+        <mxCell id="OQ3E1-0agg7yZBkhoX3U-1841" value="Legal context solution:&amp;nbsp;&lt;br&gt;&lt;i&gt;Reasonable steps to destroy or permanently de-identify personal information if it is no longer needed for any purpose’.&amp;nbsp;&lt;/i&gt; &lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;-- Information Privacy Act 2000" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="210" width="310" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1843" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OQ3E1-0agg7yZBkhoX3U-1815" target="OQ3E1-0agg7yZBkhoX3U-1828">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -172,16 +169,16 @@
           <mxGeometry x="1675" y="130" width="260" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1852" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="60" width="20" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="OQ3E1-0agg7yZBkhoX3U-1855" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="170" width="160" height="10" as="geometry" />
+          <mxGeometry x="2000" y="30" width="20" height="190" as="geometry" />
         </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1856" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="1940" y="100" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1857" value="Solution" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1950" y="100" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OQ3E1-0agg7yZBkhoX3U-1861" value="&lt;div&gt;&amp;nbsp;-- Give staff sone access to thier own personal information&lt;/div&gt;&lt;div&gt;-- Acknowledge people when information is obtained&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="10" width="260" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
