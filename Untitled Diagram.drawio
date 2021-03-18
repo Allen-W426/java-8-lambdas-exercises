@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T11:15:31.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="lPwRf_A9FgcqJHv3fLIP" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-18T11:38:15.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="Q1XUqu2be09mli_oTtrR" version="13.10.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1703" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="370" y="120" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1765" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp;Social context:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; -- Individual concerns on how their information is obtained and stored.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp;-- &#39;&lt;i&gt;Facial information can not be used,&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;i&gt;without the consent of the individual&#39;.&lt;/i&gt; Stated by the Australian Privicy Act .1988&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
-          <mxGeometry x="1710" y="10" width="270" height="110" as="geometry" />
+          <mxGeometry x="1670" y="10" width="270" height="110" as="geometry" />
         </mxCell>
         <mxCell id="1771" value="Policy" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="1790" y="319.9999999999999" width="150" height="60" as="geometry" />
@@ -124,15 +124,15 @@
         </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1837" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1310" y="50" as="sourcePoint" />
-            <mxPoint x="1600" y="120" as="targetPoint" />
+            <mxPoint x="1270" y="50" as="sourcePoint" />
+            <mxPoint x="1560" y="120" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1310" y="120" />
+              <mxPoint x="1270" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1838" value="Concerns" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1485" y="100" width="70" height="20" as="geometry" />
+          <mxGeometry x="1480" y="100" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1839" value="Social" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="2150" y="150" width="150" height="60" as="geometry" />
@@ -154,7 +154,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1844" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" vertex="1" parent="1">
-          <mxGeometry x="1590" y="70" width="120" height="100" as="geometry" />
+          <mxGeometry x="1550" y="70" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1845" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -168,8 +168,20 @@
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1847" value="Source" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="OQ3E1-0agg7yZBkhoX3U-1845">
           <mxGeometry x="-1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OQ3E1-0agg7yZBkhoX3U-1850" value="Cybersecurity:&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1770" y="160" width="150" height="60" as="geometry" />
+        <mxCell id="OQ3E1-0agg7yZBkhoX3U-1850" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Cybersecurity:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span id=&quot;docs-internal-guid-464443f5-7fff-3725-f938-a6052675c688&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; vertical-align: baseline&quot;&gt;&amp;nbsp;-- Increased connectivity and data collection might leads to&amp;nbsp; more susceptible to cyber-attacks.&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
+          <mxGeometry x="1675" y="130" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OQ3E1-0agg7yZBkhoX3U-1852" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="60" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OQ3E1-0agg7yZBkhoX3U-1855" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="170" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="OQ3E1-0agg7yZBkhoX3U-1856" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1940" y="100" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OQ3E1-0agg7yZBkhoX3U-1857" value="Solution" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="100" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
