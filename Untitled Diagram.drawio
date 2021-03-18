@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T12:32:06.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="NxEpPUDndkIBsom8DTmd" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-18T12:33:50.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="gxyXiGbK2T0jnASHKRp_" version="13.10.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1703" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1202" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,13 +172,22 @@
           <mxGeometry x="2000" y="25" width="20" height="255" as="geometry" />
         </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1856" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1940" y="100" width="70" height="40" as="geometry" />
+          <mxGeometry x="1940" y="132.5" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1857" value="Solution" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1950" y="100" width="60" height="20" as="geometry" />
+          <mxGeometry x="1950" y="132.5" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1861" value="&lt;div&gt;&amp;nbsp;-- Give staff sone access to thier own personal information&lt;/div&gt;&lt;div&gt;-- Acknowledge people when information is obtained&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="2020" y="10" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OQ3E1-0agg7yZBkhoX3U-1865" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=none;elbow=vertical" edge="1" parent="1">
+          <mxGeometry width="100" height="75" relative="1" as="geometry">
+            <mxPoint x="1940" y="110" as="sourcePoint" />
+            <mxPoint x="2010" y="153" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2050" y="152.5" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
