@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T13:08:33.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="2TqnH0GAxTEbpc6yZElc" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-18T13:14:41.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="qTrLoGhNWel9Mqpv_AmY" version="13.10.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1022" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -179,8 +179,8 @@
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1870" value="Pros" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="1430" y="250" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OQ3E1-0agg7yZBkhoX3U-1872" value="Fastest to access and the most secured access technolgy&amp;nbsp;&amp;nbsp;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ccccff;shape=mxgraph.archimate.motiv;motivType=goal" vertex="1" parent="1">
-          <mxGeometry x="1520" y="230" width="210" height="67.5" as="geometry" />
+        <mxCell id="OQ3E1-0agg7yZBkhoX3U-1872" value="&amp;nbsp;Cost effective: less expensive for&amp;nbsp; &amp;nbsp; &amp;nbsp;maintainence compared to facial&amp;nbsp; &amp;nbsp;recognintion&lt;br&gt;&amp;nbsp;Enivronmatal friendly: No need to&amp;nbsp; &amp;nbsp;print plastic cards for employees" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ccccff;shape=mxgraph.archimate.motiv;motivType=goal;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1531" y="230" width="209" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1874" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OQ3E1-0agg7yZBkhoX3U-1828" target="OQ3E1-0agg7yZBkhoX3U-1872">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
