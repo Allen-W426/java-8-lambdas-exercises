@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T08:47:02.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="hZfzHXp5dMQTm1VFyup-" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-19T08:51:07.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="IP5TsMP4e5nqZXW6hjQx" version="13.10.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="1022" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2044" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,7 +192,7 @@
           <mxGeometry x="1400" y="360" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1877" value="Policy context :&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent ; color: rgb(0 , 0 , 0) ; font-family: &amp;#34;arial&amp;#34; ; font-size: 11pt ; font-weight: normal&quot;&gt;Tracking devices, which are devices capable of being used to determine geographical locations of a person, vehicle or thing are prohibited.&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-weight: normal&quot; id=&quot;docs-internal-guid-af035585-7fff-b4e9-70bb-cd1d4c109b5f&quot;&gt;&lt;span style=&quot;font-size: 11pt ; font-family: &amp;#34;arial&amp;#34; ; color: rgb(0 , 0 , 0) ; background-color: transparent ; vertical-align: baseline&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;--Surveillance Devices Act 2016&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1892" y="354" width="268" height="126" as="geometry" />
+          <mxGeometry x="1922" y="370" width="268" height="126" as="geometry" />
         </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1880" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp;Social context:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; -- People unfamiliar with QR code may be strgguled to implement the new technology&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp;--&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: inherit&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;QR code may not be loaded due to&amp;nbsp; &amp;nbsp;network failure&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="1500.5" y="350" width="270" height="110" as="geometry" />
@@ -209,20 +209,23 @@
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1882" value="&lt;div&gt;Security issue:&lt;/div&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;The QR code may be exposed and people&#39;s information may be stole if the QR code does not change&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="1500.5" y="490" width="270" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="OQ3E1-0agg7yZBkhoX3U-1883" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="OQ3E1-0agg7yZBkhoX3U-1886">
+        <mxCell id="OQ3E1-0agg7yZBkhoX3U-1883" value="" style="endArrow=classic;html=1;exitX=0.256;exitY=0.505;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OQ3E1-0agg7yZBkhoX3U-1929" target="OQ3E1-0agg7yZBkhoX3U-1886">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1772" y="471" as="sourcePoint" />
+            <mxPoint x="1820" y="501" as="sourcePoint" />
             <mxPoint x="1870" y="512" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1820" y="500" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1885" value="Solution" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="440" width="60" height="20" as="geometry" />
+          <mxGeometry x="1830" y="480" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1886" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;size=0.5;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="380" width="20" height="160" as="geometry" />
+          <mxGeometry x="1900" y="390" width="20" height="220" as="geometry" />
         </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1888" value="&lt;div&gt;Security solution:&lt;/div&gt;&lt;font color=&quot;#202124&quot; face=&quot;arial, sans-serif&quot;&gt;Try to use dynamic QR code or b&lt;/font&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: inherit&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;inding other information&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(32 , 33 , 36) ; font-family: &amp;#34;arial&amp;#34; , sans-serif&quot;&gt;when the QR code is exposed&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=left;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
-          <mxGeometry x="1892" y="490" width="270" height="90" as="geometry" />
+          <mxGeometry x="1920" y="555" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1892" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -347,6 +350,9 @@
         </mxCell>
         <mxCell id="OQ3E1-0agg7yZBkhoX3U-1926" value="SID: 490444993" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2180" y="775" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OQ3E1-0agg7yZBkhoX3U-1929" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="410" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
