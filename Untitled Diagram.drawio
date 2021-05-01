@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-01T06:56:17.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="bzD8o94OotI0caTkdj28" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-01T12:12:37.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="oDBO_aZvzWQyxAGl8vVm" version="14.6.6" type="github">
   <diagram id="Og93Gh9kfyR5OOlGd0UQ" name="Page-1">
-    <mxGraphModel dx="1460" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1703" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -159,8 +159,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w4mPT2yalqKGG9EK5j_i-37" value="Modify LED conditions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="667.5" y="770" width="70" height="20" as="geometry" />
+        <mxCell id="w4mPT2yalqKGG9EK5j_i-41" value="Request lighting&amp;nbsp; optioon changes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="653.75" y="760" width="116.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="w4mPT2yalqKGG9EK5j_i-42" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w4mPT2yalqKGG9EK5j_i-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="750" as="sourcePoint" />
+            <mxPoint x="250" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w4mPT2yalqKGG9EK5j_i-43" value="Receive occupancies&#39; advice" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="710" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
