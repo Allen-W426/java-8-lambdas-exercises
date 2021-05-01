@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-05-01T12:12:37.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="oDBO_aZvzWQyxAGl8vVm" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-01T12:18:23.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="2hlUMwEp3KaMR5Pb_SFp" version="14.6.6" type="github">
   <diagram id="Og93Gh9kfyR5OOlGd0UQ" name="Page-1">
-    <mxGraphModel dx="1703" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="584" dy="236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="w4mPT2yalqKGG9EK5j_i-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="230" width="390" height="590" as="geometry" />
         </mxCell>
-        <mxCell id="w4mPT2yalqKGG9EK5j_i-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Smart Lighting System User Interface&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="431.25" y="200" width="270" height="20" as="geometry" />
+        <mxCell id="w4mPT2yalqKGG9EK5j_i-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Light control System User Interface&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="441.25" y="200" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="w4mPT2yalqKGG9EK5j_i-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Building administrator&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="520" width="40" height="80" as="geometry" />
@@ -159,7 +159,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w4mPT2yalqKGG9EK5j_i-41" value="Request lighting&amp;nbsp; optioon changes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="w4mPT2yalqKGG9EK5j_i-41" value="Request lighting&amp;nbsp; option changes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="653.75" y="760" width="116.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w4mPT2yalqKGG9EK5j_i-42" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w4mPT2yalqKGG9EK5j_i-26">
