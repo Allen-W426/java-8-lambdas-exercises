@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-05-01T06:52:51.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="8e5PuxXALSojpi61yT4p" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-01T06:53:18.669Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="dXVD59CY9N1RU1b6pkMI" version="14.6.6" type="github">
   <diagram id="Og93Gh9kfyR5OOlGd0UQ" name="Page-1">
     <mxGraphModel dx="1460" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="w4mPT2yalqKGG9EK5j_i-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="210" width="380" height="640" as="geometry" />
+          <mxGeometry x="380" y="230" width="390" height="590" as="geometry" />
         </mxCell>
         <mxCell id="w4mPT2yalqKGG9EK5j_i-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Smart Lighting System User Interface&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="180" width="270" height="20" as="geometry" />
+          <mxGeometry x="431.25" y="200" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="w4mPT2yalqKGG9EK5j_i-3" value="Building administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="540" width="30" height="60" as="geometry" />
